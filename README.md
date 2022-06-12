@@ -29,6 +29,10 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript-1.svg" alt="" width="45" height="50"/>
 <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="" width="45" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="" width="45" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="" width="45" height="55"/>
+<img src="" alt="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="45" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" alt="" width="45" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/100px-CorelDraw_logo.svg.png?20190424215307" alt="" width="45" height="55"/>
 </p>
 
 
