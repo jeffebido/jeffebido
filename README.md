@@ -4,9 +4,9 @@
 <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/jeffe-oliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/Jeffebido#8637" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="40" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="40" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jeffe-oliveira/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/Jeffebido#8637" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="40" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/apoorv#4040" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="40" width="30" /></a>&nbsp;
 </p>
 
 ---
