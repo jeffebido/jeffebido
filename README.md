@@ -36,6 +36,6 @@
 
 ###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> Estatísticas: 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=350&&hide=stars)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=350&&langs_count=6&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=300&&hide=stars)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=250&&langs_count=6&layout=compact)
 
