@@ -42,6 +42,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=300&&hide=stars)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=250&&langs_count=6&layout=compact)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=jeffebido&style=flat-square)
 
 
