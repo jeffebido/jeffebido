@@ -78,10 +78,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=300&hide=stars" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffebido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=250&langs_count=6&layout=compact" alt="Top Langs" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeffebido&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeffebido&style=flat-square" alt="Profile Views" />
