@@ -1,6 +1,10 @@
+<div align="right">
+  <a href="README.md">🇺🇸 English</a> | <a href="README-pt.md">🇧🇷 Português</a>
+</div>
+
 <div align="center">
-  <h1>Olá 👋, me chamo Jefferson</h1>
-  <h3>Desenvolvedor Full Stack apaixonado por tecnologia, inovação e IA!</h3>
+  <h1>Hi 👋, I'm Jefferson</h1>
+  <h3>Senior Full Stack Developer passionate about technology, innovation, and AI!</h3>
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" />
 </div>
 
@@ -12,17 +16,17 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-* 💻 Desenvolvedor web com forte experiência em **Laravel**, **React** e gestão de negócios.
-* 🤖 Entusiasta de Inteligência Artificial, explorando ativamente a geração de modelos e vídeos.
-* 🚀 Sempre focado em construir soluções eficientes, escaláveis e modernas, do banco de dados ao front-end.
+* 💻 Senior Web Developer with strong experience in **Laravel**, **React**, and business management.
+* 🤖 Artificial Intelligence enthusiast, actively exploring model and video generation.
+* 🚀 Always focused on building efficient, scalable, and modern solutions, from the database to the front-end.
 
 ---
 
-### <img src='https://media3.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif' width='25' /> Ferramentas e Tecnologias
+### <img src='https://media3.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif' width='25' /> Tools & Technologies
 
-**Linguagens & Front-end**
+**Languages & Front-end**
 <p align="left">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript-1.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45"/>
@@ -32,10 +36,9 @@
   <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="Jquery" width="45" height="45"/>
-
 </p>
 
-**Back-end & Banco de Dados**
+**Back-end & Databases**
 <p align="left">
   <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/php2.svg" alt="PHP" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="45" height="45"/>
@@ -48,7 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
 </p>
 
-**IA, Infraestrutura & Outros**
+**AI, Infrastructure & Others**
 <p align="left">
   <img src="https://img.shields.io/badge/Fooocus-303030?style=for-the-badge&logo=ai" alt="Fooocus" />
   <img src="https://img.shields.io/badge/ComfyUI-303030?style=for-the-badge&logo=ai" alt="ComfyUI" />
@@ -63,8 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" width="45" height="45" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" width="45" height="45" alt="WooCommerce" />
 </p>
 
 **Design**
@@ -76,9 +78,9 @@
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> Estatísticas
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeffebido&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeffebido&theme=tokyonight&locale=en)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeffebido&style=flat-square" alt="Profile Views" />
