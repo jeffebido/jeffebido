@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá 👋, me chamo Jefferson</h1>
   <h3>Desenvolvedor Full Stack apaixonado por tecnologia, inovação e IA!</h3>
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" />
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" />
 </div>
 
 <p align="center">
